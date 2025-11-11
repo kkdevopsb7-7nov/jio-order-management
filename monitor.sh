@@ -1,5 +1,1 @@
-
-fruits = ["apple", "banana", "cherry"]
-
-
-print("Fruits list: ", fruits) 
+System.out.println("HELLO I AM MONITORING U");
